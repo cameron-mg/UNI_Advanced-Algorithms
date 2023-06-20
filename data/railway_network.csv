@@ -1,0 +1,696 @@
+Thurso,Georgemas,12
+Thurso,Helmsdale,17
+Georgemas,Helmsdale,12
+Georgemas,Wick,14
+Helmsdale,Lairg,7
+Lairg,Tain,6
+Tain,Invergordon,10
+Invergordon,Dingwall,16
+Invergordon,Garve,9
+Garve,Dingwall,12
+Garve,Achnasheen,7
+Achnasheen,Strathcarron,10
+Strathcarron,Plockton,7
+Plockton,Kyle of Lochalsh,16
+Dingwall,INVERNESS,14
+INVERNESS,Nairn,11
+INVERNESS,Aviemore,9
+Nairn,Forres,5
+Forres,Elgin,15
+Elgin,Keith,7
+Keith,Huntly,15
+Huntly,Inverurie,16
+Inverurie,Dyce,9
+Dyce,ABERDEEN,11
+ABERDEEN,Stonehaven,8
+Stonehaven,Montrose,13
+Montrose,Arbroath,9
+Arbroath,DUNDEE,7
+Aviemore,Kingussie,5
+Kingussie,Blair Atholl,5
+Blair Atholl,Pitlochry,12
+Pitlochry,Dunkeld & Birnam,8
+Dunkeld & Birnam,PERTH,18
+PERTH,DUNDEE,19
+DUNDEE,Leuchars,19
+Leuchars,Cupar,11
+Cupar,Markinch,11
+Markinch,PERTH,12
+Markinch,Cowdenbeath,15
+Cowdenbeath,Dunfermline,9
+Dunfermline,Kirkcaldy,8
+Kirkcaldy,Markinch,17
+PERTH,Dunblane,7
+Dunblane,STIRLING,17
+STIRLING,Alloa,19
+STIRLING,Larbert,14
+Mallaig,Arisaig,11
+Arisaig,Fort William,7
+Fort William,Spean Bridge,8
+Spean Bridge,Corrour,16
+Corrour,Rannoch,5
+Rannoch,Crianlarich,16
+Rannoch,Taynuilt,8
+Taynuilt,Oban,14
+Crianlarich,Arrochar & Tarbet,8
+Arrochar & Tarbet,Garelochhead,17
+Garelochhead,Helensburgh,8
+Helensburgh,Dumbarton,5
+Dumbarton,Balloch,13
+Dumbarton,Dalmuir,20
+Dalmuir,GLASGOW QUEEN STREET,5
+Milngavie,GLASGOW QUEEN STREET,8
+GLASGOW QUEEN STREET,Larbert,11
+GLASGOW QUEEN STREET,Falkirk,14
+GLASGOW QUEEN STREET,Cumbernauld,10
+GLASGOW QUEEN STREET,Airdrie,20
+Larbert,Falkirk,9
+Falkirk,Cumbernauld,15
+Airdrie,Bathgate,11
+Bathgate,Dunfermline,11
+Bathgate,Kirkcaldy,18
+Falkirk,Dunfermline,17
+Falkirk,Kirkcaldy,7
+Dalmuir,GLASGOW CENTRAL,15
+GLASGOW CENTRAL,Motherwell,13
+GLASGOW CENTRAL,Neilston,17
+GLASGOW CENTRAL,East Kilbride,5
+GLASGOW CENTRAL,Paisley,8
+Paisley,Ardrossan,16
+Paisley,Port Glasgow,5
+Ardrossan,Largs,18
+Port Glasgow,Wemyss Bay,20
+Port Glasgow,Greenock,19
+Greenock,Gourock,7
+Motherwell,Lanark,15
+EDINBURGH WAVERLEY,Newcraighall,9
+EDINBURGH WAVERLEY,North Berwick,12
+EDINBURGH WAVERLEY,Dunbar,18
+EDINBURGH WAVERLEY,Bathgate,7
+EDINBURGH WAVERLEY,Falkirk,8
+EDINBURGH WAVERLEY,Dunfermline,12
+EDINBURGH WAVERLEY,Kirkcaldy,7
+EDINBURGH WAVERLEY,Motherwell,9
+Newcraighall,Galashiels,16
+Galashiels,Tweedbank,10
+Dunbar,Berwick-upon-Tweed,19
+Berwick-upon-Tweed,Alnmouth,20
+Alnmouth,Morpeth,7
+Morpeth,NEWCASTLE,13
+Motherwell,CARLISLE,14
+CARLISLE,Annan,14
+Annan,Dumfries,9
+Dumfries,Kilmarnock,12
+Kilmarnock,Troon,17
+Kilmarnock,Paisley,10
+GLASGOW CENTRAL,Troon,13
+GLASGOW CENTRAL,Kilmarnock,14
+Kilmarnock,East Kilbride,16
+Troon,PRESTWICK AIRPORT,14
+PRESTWICK AIRPORT,Ayr,16
+Ayr,Girvan,6
+Girvan,Stranraer,5
+EDINBURGH WAVERLEY,CARLISLE,9
+CARLISLE,Haltwhistle,6
+Haltwhistle,Hexham,14
+Hexham,MetroCentre,20
+MetroCentre,NEWCASTLE,16
+NEWCASTLE,Durham,8
+NEWCASTLE,Heworth,16
+Heworth,SUNDERLAND,18
+SUNDERLAND,Hartlepool,12
+Hartlepool,Stockton,18
+Stockton,Yarm,19
+Stockton,Thornaby,12
+Thornaby,Yarm,9
+Thornaby,MIDDLESBROUGH,5
+MIDDLESBROUGH,Redcar,10
+MIDDLESBROUGH,Nunthorpe,10
+Nunthorpe,Whitby,16
+Redcar,Saltburn,8
+Durham,Darlington,18
+Darlington,Bishop Auckland,17
+Darlington,Yarm,16
+Darlington,Northallerton,11
+Northallerton,Yarm,6
+Northallerton,YORK,5
+CARLISLE,Penrith North Lakes,12
+CARLISLE,Maryport,9
+Maryport,Workington,17
+Penrith North Lakes,Oxenholme Lake District,6
+Oxenholme Lake District,Windermere,9
+Workington,Whitehaven,5
+Whitehaven,Millom,14
+Millom,Barrow-in-Furness,18
+Barrow-in-Furness,Ulverston,18
+Ulverston,Grange-over-Sands,16
+Lancaster,Oxenholme Lake District,12
+Lancaster,Grange-over-Sands,14
+Lancaster,Morecambe,9
+Morecambe,Heysham Port,20
+Lancaster,Clitheroe,17
+Lancaster,Skipton,13
+Clitheroe,Settle,14
+Settle,Skipton,8
+Settle,Kirkby Stephen,14
+Kirkby Stephen,Appleby,12
+Appleby,CARLISLE,10
+Skipton,Keighley,12
+Keighley,LEEDS,16
+LEEDS,Ilkley,17
+LEEDS,Harrogate,12
+Harrogate,Knaresborough,9
+Knaresborough,YORK,15
+YORK,LEEDS,11
+YORK,Malton,15
+Malton,SCARBOROUGH,16
+SCARBOROUGH,Bridlington,20
+Bridlington,Beverley,14
+Beverley,HULL,19
+HULL,Brough,5
+Brough,Selby,11
+Selby,York,14
+Lancaster,PRESTON,12
+PRESTON,Kirkham & Wesham,17
+Kirkham & Wesham,BLACKPOOL NORTH,10
+Kirkham & Wesham,Lytham,13
+Lytham,Blackpool South,19
+PRESTON,Blackburn,16
+Blackburn,Clitheroe,17
+Blackburn,Accrington,12
+Accrington,Burnley,10
+Burnley,Colne,9
+Burnley,Halifax,20
+Halifax,BRADFORD,10
+BRADFORD,LEEDS,15
+PRESTON,Wigan,7
+PRESTON,Ormskirk,19
+Wigan,Bolton,5
+Bolton,PRESTON,20
+Bolton,Blackburn,11
+Wigan,Southport,7
+Southport,Formby,14
+Formby,Moorfields,16
+Moorfields,LIVERPOOL LIME STREET,17
+Moorfields,Ormskirk,5
+Wigan,Kirby,5
+Kirby,LIVERPOOL LIME STREET,16
+Wigan,Huyton,5
+Huyton,LIVERPOOL LIME STREET,18
+LIVERPOOL LIME STREET,Hunts Cross,9
+Hunts Cross,Liverpool Central,17
+Liverpool Central,Moorfields,15
+Liverpool Central,LIVERPOOL LIME STREET,8
+Newton-le-Willows,Huyton,8
+Newton-le-Willows,Warrington,7
+Warrington,Wigan,19
+Warrington,Hunts Cross,6
+Warrington,Birchwood,14
+Birchwood,MANCHESTER PICCADILLY,9
+MANCHESTER PICCADILLY,Newton-le-Willows,17
+MANCHESTER PICCADILLY,Bolton,12
+Bolton,MANCHESTER VICTORIA,18
+Newton-le-Willows,MANCHESTER VICTORIA,18
+MANCHESTER VICTORIA,Rochdale,5
+MANCHESTER VICTORIA,Stalybridge,5
+Stalybridge,MANCHESTER PICCADILLY,9
+Rochdale,Halifax,7
+Stalybridge,Huddersfield,19
+Huddersfield,Halifax,5
+Huddersfield,Rochdale,6
+Huddersfield,Burnley,9
+Dewsbury,LEEDS,10
+Dewsbury,Huddersfield,5
+Dewsbury,Halifax,17
+Dewsbury,Burnley,8
+Dewsbury,Rochdale,10
+LEEDS,Selby,18
+YORK,DONCASTER,14
+LEEDS,Wakefield,10
+LEEDS,Pontefract,7
+Wakefield,Pontefract,10
+Pontefract,YORK,7
+Pontefract,Goole,17
+Goole,Brough,8
+Goole,DONCASTER,19
+DONCASTER,Pontefract,10
+DONCASTER,Wakefield,8
+Wakefield,Huddersfield,17
+Wakefield,Barnsley,13
+Barnsley,Penistone,12
+Penistone,Huddersfield,7
+DONCASTER,Scunthorpe,13
+Scunthorpe,Barnetby,19
+Barnetby,GRIMSBY,14
+GRIMSBY,Cleethorpes,9
+GRIMSBY,New Holland,11
+New Holland,Barton-on-Humber,11
+DONCASTER,Gainsborough,6
+Gainsborough,Barnetby,20
+DONCASTER,Rotherham,15
+Rotherham,Wakefield,11
+Rotherham,Pontefract,12
+Rotherham,Meadowhall,6
+Meadowhall,Barnsley,8
+Meadowhall,SHEFFIELD,14
+SHEFFIELD,Chinley,8
+Chinley,Marple,15
+Marple,MANCHESTER PICCADILLY,16
+MANCHESTER PICCADILLY,MANCHESTER Airport,8
+MANCHESTER PICCADILLY,Stockport,9
+Stockport,Chinley,14
+Stockport,Buxton,14
+LIVERPOOL LIME STREET,Runcorn,20
+Runcorn,Hartford,12
+Hartford,Warrington,20
+Birkenhead,Moorfields,16
+Birkenhead,Liverpool Central,16
+Birkenhead,New Brighton,16
+Birkenhead,West Kirby,16
+Birkenhead,Heswall,13
+Birkenhead,Hooton,20
+Hooton,Ellesmere Port,14
+Ellesmere Port,Warrington,7
+Warrington,CHESTER,9
+Holyhead,BANGOR,16
+BANGOR,Llandudno Junction,7
+Llandudno Junction,Llandudno,8
+Llandudno Junction,Betws-y-Coed,14
+Betws-y-Coed,Blaenau Ffestiniog,7
+Llandudno Junction,Colwyn Bay,9
+Colwyn Bay,Rhyl,20
+Rhyl,Prestatyn,17
+Prestatyn,Shotton,14
+Shotton,Heswall,12
+Shotton,CHESTER,15
+CHESTER,Hooton,7
+CHESTER,Wrexham,18
+Wrexham,Shotton,13
+Wrexham,Ruabon,16
+Ruabon,Gobowen,11
+Hartford,CREWE,8
+CREWE,CHESTER,14
+MANCHESTER Airport,Wilmslow,19
+Wilmslow,CREWE,17
+CHESTER,Northwich,10
+Northwich,Altrincham,13
+Altrincham,Stockport,5
+Stockport,Wilmslow,19
+Stockport,Macclesfield,7
+Pwllheli,Criccieth,10
+Criccieth,Porthmadog,10
+Porthmadog,Harlech,19
+Harlech,Barmouth,13
+Barmouth,Aberdovey,9
+Aberdovey,Machynlleth,7
+Machynlleth,ABERYSTWYTH,12
+Machynlleth,Caersws,14
+Caersws,Newtown,11
+Newtown,Welshpool,16
+Welshpool,SHREWSBURY,19
+SHREWSBURY,Gobowen,20
+CREWE,Nantwich,12
+Nantwich,Whitchurch,5
+Whitchurch,SHREWSBURY,14
+SHREWSBURY,Wellington,16
+Wellington,Telford,8
+Telford,WOLVERHAMPTON,20
+WOLVERHAMPTON,Stafford,20
+Stafford,CREWE,5
+STOKE-ON-TRENT,CREWE,19
+STOKE-ON-TRENT,Macclesfield,13
+STOKE-ON-TRENT,Stafford,19
+STOKE-ON-TRENT,Rugeley,12
+Rugeley,Stafford,19
+Barnetby,Market Rasen,6
+Market Rasen,LINCOLN,8
+LINCOLN,Gainsborough,17
+Gainsborough,Retford,19
+Retford,DONCASTER,15
+Retford,Worksop,17
+Worksop,Kiveton Park,10
+Kiveton Park,SHEFFIELD,16
+SHEFFIELD,Chesterfield,19
+Chesterfield,Alfreton,18
+Chesterfield,DERBY,8
+DERBY,Matlock,19
+DERBY,Uttoxeter,17
+Uttoxeter,STOKE-ON-TRENT,7
+Worksop,Mansfield,7
+Mansfield,NOTTINGHAM,5
+NOTTINGHAM,Alfreton,19
+DERBY,NOTTINGHAM,8
+NOTTINGHAM,Loughborough,6
+Loughborough,DERBY,19
+Retford,Newark,12
+Newark,LINCOLN,18
+Newark,NOTTINGHAM,8
+NOTTINGHAM,Grantham,5
+NOTTINGHAM,Sleaford,18
+Grantham,Sleaford,12
+Newark,Grantham,16
+Sleaford,LINCOLN,19
+Sleaford,Boston,15
+Sleaford,Spalding,8
+Boston,Skegness,11
+PETERBOROUGH,Grantham,6
+PETERBOROUGH,Spalding,15
+PETERBOROUGH,Stamford,10
+Stamford,Oakham,11
+Oakham,Melton Mowbray,9
+Melton Mowbray,Loughborough,6
+SHREWSBURY,Church Stretton,10
+Church Stretton,Craven Arms,16
+Craven Arms,Ludlow,12
+Ludlow,Leominster,12
+Leominster,Hereford,12
+Hereford,Abergavenny,19
+Abergavenny,Cwmbran,9
+Cwmbran,NEWPORT,20
+Craven Arms,Knighton,14
+Knighton,Llandrindod Wells,18
+Llandrindod Wells,Llanwrtyd,7
+Llanwrtyd,Llandovery,8
+Llandovery,Ammanford,14
+Ammanford,Llanelli,16
+Llanelli,Carmarthen,14
+Carmarthen,Whitland,8
+Whitland,Tenby,10
+Whitland,Haverfordwest,12
+Whitland,Fishguard Harbour,8
+Tenby,Pembroke Dock,13
+Haverfordwest,Milford Haven,16
+Llanelli,SWANSEA,20
+SWANSEA,Neath,5
+Neath,Port Talbot Parkway,11
+Port Talbot Parkway,Bridgend,12
+Bridgend,Maesteg,16
+Bridgend,CARDIFF CENTRAL,5
+Bridgend,Barry,16
+Barry,CARDIFF CENTRAL,7
+CARDIFF CENTRAL,Penarth,18
+CARDIFF CENTRAL,NEWPORT,7
+CARDIFF CENTRAL,Ebbw Vale,14
+CARDIFF CENTRAL,CARDIFF QUEEN STREET,20
+CARDIFF QUEEN STREET,Rhymney,6
+CARDIFF QUEEN STREET,Pontypridd,17
+Pontypridd,Treherbert,16
+Pontypridd,Aberdare,10
+Pontypridd,Merthyr Tydfil,6
+WOLVERHAMPTON,Sandwell & Dudley,12
+Sandwell & Dudley,BIRMINGHAM NEW STREET,11
+Rugeley,Lichfield,14
+Lichfield,Tamworth,9
+Rugeley,Walsall,12
+BIRMINGHAM SNOW HILL,Walsall,18
+BIRMINGHAM SNOW HILL,Lichfield,6
+BIRMINGHAM SNOW HILL,Tamworth,8
+Tamworth,BIRMINGHAM NEW STREET,12
+BIRMINGHAM NEW STREET,BIRMINGHAM SNOW HILL,14
+BIRMINGHAM NEW STREET,Birmingham International,14
+BIRMINGHAM SNOW HILL,Solihull,15
+BIRMINGHAM SNOW HILL,Stratford-upon-Avon,13
+Stratford-upon-Avon,Warwick,19
+Birmingham International,COVENTRY,10
+COVENTRY,Leamington Spa,12
+Warwick,Leamington Spa,17
+Leamington Spa,Banbury,8
+BIRMINGHAM SNOW HILL,Stourbridge Junction,14
+Stourbridge Junction,Stourbridge Town,20
+Stourbridge Junction,Kidderminster,15
+Kidderminster,Droitwich Spa,15
+Droitwich Spa,Worcester,5
+Worcester,Great Malvern,5
+Great Malvern,Hereford,14
+BIRMINGHAM NEW STREET,University,16
+University,Longbridge,6
+Longbridge,Droitwich Spa,7
+Longbridge,Redditch,16
+Longbridge,Cheltenham Spa,13
+Cheltenham Spa,Worcester,6
+Worcester,Evesham,8
+Evesham,Moreton-in-Marsh,20
+Moreton-in-Marsh,Charlbury,16
+Charlbury,OXFORD,6
+OXFORD,Banbury,13
+Banbury,Bicester,20
+Bicester,OXFORD,7
+Bicester,Princes Risborough,18
+Princes Risborough,High Wycombe,9
+High Wycombe,London,7
+Aylesbury Vale Parkway,Aylesbury,9
+Aylesbury,Princes Risborough,20
+Aylesbury,Amersham,16
+Amersham,London,17
+Tamworth,Burton-on-Trent,18
+Burton-on-Trent,DERBY,7
+Tamworth,Nuneaton,12
+Nuneaton,BIRMINGHAM NEW STREET,7
+Nuneaton,COVENTRY,7
+Nuneaton,Hinckley,6
+LEICESTER,Loughborough,5
+LEICESTER,Hinckley,20
+LEICESTER,Market Harborough,17
+Melton Mowbray,LEICESTER,20
+Market Harborough,Kettering,5
+Kettering,Corby,7
+Kettering,Wellingborough,17
+Wellingborough,Bedford,16
+Bedford,LUTON,6
+LUTON,Luton Airport,16
+Luton Airport,St. Albans,16
+St. Albans,London,10
+St. Albans,WATFORD JUNCTION,14
+WATFORD JUNCTION,London,12
+WATFORD JUNCTION,Bletchley,11
+Bletchley,Bedford,11
+Bletchley,MILTON KEYNES,20
+MILTON KEYNES,Northampton,12
+MILTON KEYNES,Rugby,14
+Rugby,Northampton,10
+Rugby,Nuneaton,7
+Rugby,COVENTRY,18
+PETERBOROUGH,Huntingdon,20
+Huntingdon,St Neots,9
+St Neots,STEVENAGE,12
+STEVENAGE,London,10
+PETERBOROUGH,March,8
+March,Ely,20
+Ely,Kings Lynn,16
+Ely,Thetford,11
+Thetford,NORWICH,18
+NORWICH,Hoveton & Wroxham,10
+Hoveton & Wroxham,North Walsham,5
+North Walsham,Cromer,16
+Cromer,Sheringham,13
+NORWICH,Great Yarmouth,5
+NORWICH,Lowestoft,9
+NORWICH,Diss,10
+Lowestoft,Beccles,6
+Beccles,Saxmundham,14
+Saxmundham,IPSWICH,20
+IPSWICH,Felixstowe,11
+Diss,Stowmarket,17
+Stowmarket,IPSWICH,10
+Ely,Bury St Edmunds,12
+Bury St Edmunds,Stowmarket,10
+Ely,CAMBRIDGE,8
+CAMBRIDGE,Bury St Edmunds,14
+CAMBRIDGE,Letchworth,16
+CAMBRIDGE,Audley End,16
+Letchworth,STEVENAGE,20
+Audley End,STANSTED AIRPORT,9
+Audley End,Bishops Stortford,20
+Bishops Stortford,STANSTED AIRPORT,6
+Bishops Stortford,London,11
+Colchester,IPSWICH,6
+Colchester,Harwich,14
+Colchester,Walton-on-Naze,17
+Colchester,Clacton,7
+Colchester,Sudbury,7
+Colchester,Chelmsford,15
+Chelmsford,Braintree,9
+Chelmsford,Stratford,5
+Stratford,London,5
+Stratford,Southminster,9
+Stratford,Southend,16
+Southend,Shoeburyness,16
+Southend,Basildon,18
+Southend,Tilbury,6
+Tilbury,Barking,8
+Barking,Basildon,6
+Barking,London,19
+PENZANCE,St Erth,13
+St Erth,St Ives,15
+St Erth,Camborne,8
+Camborne,Redruth,7
+Redruth,Truro,9
+Truro,Falmouth,15
+Truro,St Austell,10
+St Austell,Par,16
+Par,Newquay,10
+Par,Bodmin Parkway,15
+Bodmin Parkway,Liskeard,7
+Liskeard,Looe,8
+Liskeard,PLYMOUTH,6
+PLYMOUTH,Gunnislake,18
+PLYMOUTH,Totnes,18
+Totnes,Newton Abbot,15
+Newton Abbot,Torquay,17
+Newton Abbot,Teignmouth,14
+Torquay,Paignton,8
+Teignmouth,Dawlish,6
+Dawlish,EXETER ST DAVIDS,20
+EXETER ST DAVIDS,Crediton,7
+Crediton,Eggesford,7
+Eggesford,Barnstaple,11
+EXETER ST DAVIDS,Tiverton Parkway,16
+Tiverton Parkway,Taunton,12
+EXETER ST DAVIDS,EXETER CENTRAL,12
+EXETER CENTRAL,Exmouth,10
+EXETER CENTRAL,Honiton,17
+Honiton,Axminster,5
+Axminster,Yeovil,7
+Yeovil,Castle Cary,14
+Yeovil,Sherborne,5
+Yeovil,Maiden Newton,19
+Maiden Newton,Dorchester,20
+Dorchester,Weymouth,19
+Castle Cary,Taunton,11
+Taunton,Bridgwater,19
+Bridgwater,Weston-super-Mare,14
+Bridgwater,BRISTOL TEMPLE MEADS,13
+Weston-super-Mare,BRISTOL TEMPLE MEADS,8
+BRISTOL TEMPLE MEADS,Severn Beach,19
+BRISTOL TEMPLE MEADS,NEWPORT,14
+NEWPORT,Bristol Parkway,5
+Bristol Parkway,BRISTOL TEMPLE MEADS,6
+NEWPORT,Chepstow,17
+Chepstow,Gloucester,19
+Gloucester,Cheltenham Spa,8
+Gloucester,Stroud,13
+Bristol Parkway,Cheltenham Spa,10
+Bristol Parkway,Gloucester,13
+Cheltenham Spa,Stroud,11
+Stroud,Kemble,6
+Kemble,SWINDON,12
+SWINDON,Bristol Parkway,18
+Didcot Parkway ,OXFORD,10
+Didcot Parkway ,SWINDON,8
+Didcot Parkway ,READING,16
+READING,Slough,18
+Slough,London,6
+Slough,Henley-on-Thames,16
+Slough,Windsor,19
+London,HEATHROW AIRPORT,10
+BRISTOL TEMPLE MEADS,BATH SPA,15
+BATH SPA,Chippenham,16
+Chippenham,SWINDON,6
+Trowbridge,BATH SPA,15
+Trowbridge,Chippenham,17
+Westbury,Trowbridge,13
+Westbury,Frome,14
+Westbury,Warminster,11
+Westbury,Bedwyn,15
+Frome,Castle Cary,19
+Bedwyn,Hungerford,15
+Hungerford,Newbury,9
+Newbury,READING,20
+Salisbury,Warminster,7
+Salisbury,Sherborne,15
+Salisbury,Romsey,11
+Salisbury,Andover,15
+Dorchester,Poole,7
+Poole,BOURNEMOUTH,13
+BOURNEMOUTH,Brockenhurst,7
+Brockenhurst,SOUTHAMPTON CENTRAL,6
+Brockenhurst,Lymington,5
+SOUTHAMPTON CENTRAL,Romsey,15
+Romsey,Eastleigh,18
+Eastleigh,SOUTHAMPTON Airport,6
+SOUTHAMPTON Airport,SOUTHAMPTON CENTRAL,6
+Eastleigh,Fareham,12
+Fareham,SOUTHAMPTON CENTRAL,6
+Fareham,Fratton,16
+Fareham,Havant,8
+Havant,Fratton,12
+Fratton,PORTSMOUTH,14
+Eastleigh,Winchester,13
+Winchester,Basingstoke,18
+Andover,Basingstoke,15
+Basingstoke,Bramley,5
+Bramley,READING,20
+READING,Guildford,13
+READING,Feltham,11
+Feltham,Windsor,18
+Basingstoke,Woking,11
+Woking,Wimbledon,19
+Woking,Alton,12
+Clapham Junction,Feltham,20
+Clapham Junction,Wimbledon,9
+Clapham Junction,London,18
+Guildford,Sutton,15
+Sutton,Clapham Junction,13
+Guildford,Dorking,14
+Guildford,Haslemere,9
+Haslemere,Havant,12
+Havant,Chichester,9
+Chichester,Bognor Regis,10
+Chichester,Littlehampton,8
+Chichester,Worthing,19
+Littlehampton,Worthing,11
+Littlehampton,Horsham,14
+Horsham,Dorking,6
+Dorking,Sutton,13
+Worthing,Shoreham-by-Sea,11
+Shoreham-by-Sea,Hove,18
+Hove,BRIGHTON,10
+Horsham,GATWICK AIRPORT,12
+Dorking,Redhill,16
+BRIGHTON,Haywards Heath,9
+Haywards Heath,GATWICK AIRPORT,17
+GATWICK AIRPORT,Redhill,17
+Redhill,East Croydon,15
+East Croydon,Clapham Junction,8
+East Croydon,London,12
+East Croydon,East Grinstead,15
+East Croydon,Uckfield,19
+Redhill,Tonbridge,15
+Lewes,BRIGHTON,11
+Lewes,Hove,20
+Lewes,Haywards Heath,6
+Lewes,Newhaven,19
+Lewes,Eastbourne,10
+Newhaven,Seaford,6
+Eastbourne,Bexhill,16
+Bexhill,Hastings,10
+Hastings,Tunbridge Wells,20
+Tunbridge Wells,Tonbridge,5
+Hastings,Rye,5
+Rye,ASHFORD INTERNATIONAL,13
+ASHFORD INTERNATIONAL,London,9
+ASHFORD INTERNATIONAL,Tonbridge,20
+Tonbridge,Maidstone,8
+Maidstone,ASHFORD INTERNATIONAL,6
+Maidstone,London,5
+Tonbridge,London,18
+Bromley South,London,17
+Bromley South,Chatham,19
+Chatham,Sittingbourne,7
+Sittingbourne,Sheerness-on-Sea,8
+Sittingbourne,Faversham,13
+Faversham,Canterbury,19
+Faversham, Herne Bay,12
+ Herne Bay,Margate,6
+Margate,Broadstairs,14
+Broadstairs,Ramsgate,14
+Ramsgate,Canterbury,11
+Ramsgate,Deal,15
+Deal,DOVER,20
+DOVER,Canterbury,14
+DOVER,Folkestone,11
+Folkestone,ASHFORD INTERNATIONAL,9
+Canterbury,ASHFORD INTERNATIONAL,16
+London,Gravesend,13
+Gravesend,Chatham,8
+Gravesend,Maidstone,9

@@ -1,0 +1,2254 @@
+Station Name,CRS Code
+Talybont,TLB
+Whinhill,WNL
+Longport,LPT
+Llanfairfechan,LLF
+Acton Main Line,AML
+Alfreton,ALF
+Aber,ABE
+Wanborough,WAN
+Petts Wood,PET
+Crayford,CRY
+Brentwood,BRE
+Reigate,REI
+Sherburn-in-Elmet,SIE
+Long Preston,LPR
+Clapham Junction,CLJ
+Bebington,BEB
+Nantwich,NAN
+Northfleet,NFL
+Ulceby,ULC
+Achnasheen,ACN
+Kirkdale,KKD
+Brondesbury Park,BSP
+Appleford,APF
+Padgate,PDG
+Pershore,PSH
+Shirebrook,SHB
+Shawford,SHW
+Wateringbury,WTR
+East Grinstead,EGR
+Uphall,UHA
+Whimple,WHM
+Dunbar,DUN
+Chalkwell,CHW
+Mount Florida,MFL
+Silkstone Common,SLK
+Perry Barr,PRY
+Saltaire,SAE
+Rice Lane,RIL
+Penge East,PNE
+Leatherhead,LHD
+Cumbernauld,CUB
+Wem,WEM
+West St Leonards,WLD
+Tilbury Town,TIL
+Adisham,ADM
+Shipton,SIP
+Kearsney (Kent),KSN
+Dorchester West,DCW
+Bermuda Park,BEP
+Aylesbury Vale Parkway,AVP
+Netherfield,NET
+Roby,ROB
+Motherwell,MTH
+St James Park (Exeter),SJP
+Bingham,BIN
+Theobalds Grove,TEO
+Manor Park,MNP
+Walton-on-Thames,WAL
+Port Sunlight,PSL
+Darlington,DAR
+Newquay,NQY
+Longton,LGN
+Rayleigh,RLG
+Singer,SIN
+Denham,DNM
+Winchfield,WNF
+Kirknewton,KKN
+Strood (Kent),SOO
+Canterbury West,CBW
+Finsbury Park,FPK
+Manor Road,MNR
+Bromborough Rake,BMR
+Durrington-on-Sea,DUR
+Shildon,SHD
+Whitlocks End,WTE
+Burnley Barracks,BUB
+Ninian Park,NNP
+Old Roan,ORN
+Frome,FRO
+Fratton,FTN
+Lanark,LNK
+Putney,PUT
+Maidstone East,MDE
+Barnsley,BNY
+Sandown,SAN
+Barnstaple,BNP
+Castleton Moor,CSM
+Crediton,CDI
+Westhoughton,WHG
+Chorley,CRL
+Bathgate,BHG
+Maidstone West,MDW
+Llanfairpwll,LPG
+Essex Road,EXR
+Rochford,RFD
+Worplesdon,WPL
+Brinnington,BNT
+Yoker,YOK
+London Cannon Street,CST
+Warwick,WRW
+Four Oaks,FOK
+Manorbier,MRB
+New Mills Central,NMC
+Croftfoot,CFF
+South Tottenham,STO
+Treorchy,TRY
+Shortlands,SRT
+Exeter Central,EXC
+Pemberton,PEM
+West Drayton,WDT
+Pleasington,PLS
+Dunston,DOT
+Kingussie,KIN
+Lympstone Commando,LYC
+Bournemouth,BMH
+Dilton Marsh,DMH
+Romsey,ROM
+Aspley Guise,APG
+Birkbeck,BIK
+Lenzie,LNZ
+Penistone,PNS
+Longbridge,LOB
+Tees-side Airport,TEA
+Lea Hall,LEH
+Warminster,WMN
+East Garforth,EGF
+North Llanrwst,NLR
+Witham,WTM
+Llandanwg,LDN
+Watford North,WFN
+Pangbourne,PAN
+Wallasey Village,WLV
+Surrey Quays,SQE
+Melksham,MKM
+Diss,DIS
+Northwich,NWI
+Coulsdon Town,CDN
+Clock House,CLK
+Clydebank,CYK
+Furness Vale,FNV
+Meldreth,MEL
+Stewartby,SWR
+Stroud (Gloucs),STD
+Norbiton,NBT
+Formby,FBY
+St Erth,SER
+Lee (London),LEE
+Telford Central,TFC
+Banbury,BAN
+Lymington Town,LYT
+Lancaster,LAN
+Bush Hill Park,BHK
+Dalreoch,DLR
+Beckenham Hill,BEC
+Kinbrace,KBC
+Thornton Abbey,TNA
+Balham,BAL
+Queenborough,QBR
+Altnabreac,ABC
+Sanquhar,SQH
+Lympstone Village,LYM
+Avoncliff,AVF
+Tile Hill,THL
+Radley,RAD
+Kemsing,KMS
+Newark Castle,NCT
+Weymouth,WEY
+Beeston,BEE
+Millbrook (Beds),MLB
+Delamere,DLM
+Chatelherault,CTE
+Dullingham,DUL
+Morden South,MDS
+Bodorgan,BOR
+Lochgelly,LCG
+Ardwick,ADK
+West Horndon,WHR
+Penyffordd,PNF
+Seaton Carew,SEC
+Rock Ferry,RFY
+Lapford,LAP
+Springburn,SPR
+Peckham Rye,PMR
+Marlow,MLW
+Chiswick,CHK
+Plumstead,PLU
+Leominster,LEO
+Tonypandy,TNP
+Plumpton,PMP
+Skewen,SKE
+Seaford (Sussex),SEF
+Codsall,CSL
+Coatbridge Sunnyside,CBS
+Dalgety Bay,DAG
+West Malling,WMA
+Dawlish,DWL
+Bradford-on-Avon,BOA
+Bickley,BKL
+Kildale,KLD
+Carluke,CLU
+Chesterfield,CHD
+Chapel-en-le-Frith,CEF
+Sundridge Park,SUP
+Colwall,CWL
+Coatdyke,COA
+Pontlottyn,PLT
+Sankey for Penketh,SNK
+Petersfield,PTR
+Rogart,ROG
+Beaconsfield,BCF
+Folkestone West,FKW
+Birkenhead Central,BKC
+Darton,DRT
+Wombwell,WOM
+Ardrossan Town,ADN
+Ravensbourne,RVB
+Finstock,FIN
+West Ealing,WEA
+Fishbourne (Sussex),FSB
+Skegness,SKG
+Coatbridge Central,CBC
+Shepreth,STH
+West Brompton,WBP
+Blundellsands & Crosby,BLN
+Bramley (Hants),BMY
+Littleborough,LTL
+Bootle New Strand,BNW
+Appledore (Kent),APD
+Pollokshields West,PLW
+Langho,LHO
+Sowerby Bridge,SOW
+Radcliffe-on-Trent,RDF
+Bromley North,BMN
+Porth,POR
+Llanharan,LLR
+Westenhanger,WHA
+Wilmcote,WMC
+Marks Tey,MKT
+Ryde Pier Head,RYP
+North Berwick,NBW
+Lelant,LEL
+Neath,NTH
+Moorthorpe,MRP
+Stapleton Road,SRD
+Moorfields,MRF
+Barmouth,BRM
+Littlehampton,LIT
+Livingston South,LVG
+Shepherd's Bush,SPB
+Wellingborough,WEL
+Althorne (Essex),ALN
+Charing (Kent),CHG
+Troed-y-rhiw,TRD
+Town Green,TWN
+Bradford Interchange,BDI
+Wembley Central,WMB
+Milngavie,MLN
+Streatham Hill,SRH
+Swanley,SAY
+Marton,MTO
+Norwood Junction,NWD
+Rickmansworth,RIC
+Tutbury & Hatton,TUT
+Canonbury,CNN
+Woodbridge,WDB
+Meridian Water,MRW
+Market Harborough,MHR
+Northampton,NMP
+Lochluichart,LCC
+Elmers End,ELE
+Ashford International,AFK
+Wrexham General,WRX
+Dawlish Warren,DWW
+Muir of Ord,MOO
+Sandplace,SDP
+Normans Bay,NSB
+St Budeaux Ferry Road,SBF
+Dinsdale,DND
+Jewellery Quarter,JEQ
+Preston (Lancs),PRE
+Andover,ADV
+Flitwick,FLT
+Rishton,RIS
+Wokingham,WKM
+Castle Cary,CLC
+Manchester United Football Ground,MUF
+Maidstone Barracks,MDB
+Dove Holes,DVH
+Ryde Esplanade,RYD
+Worksop,WRK
+Alloa,ALO
+Dean (Wilts),DEN
+Congleton,CNG
+Albany Park,AYP
+Stalybridge,SYB
+Whitchurch (Hants),WCH
+Lea Bridge,LEB
+Yatton,YAT
+Sandwich,SDW
+Solihull,SOL
+Lingwood,LGD
+Church Fenton,CHF
+Thurnscoe,THC
+Ormskirk,OMS
+Argyle Street,AGS
+Polegate,PLG
+Smethwick Galton Bridge,SGB
+Chathill,CHT
+Olton,OLT
+Winnersh Triangle,WTI
+Bangor (Gwynedd),BNG
+Conon Bridge,CBD
+Ansdell & Fairhaven,AFV
+Crewe,CRE
+Layton (Lancs),LAY
+Reddish North,RDN
+Whitby,WTB
+Falmouth Town,FMT
+Milford Haven,MFH
+Langley Mill,LGM
+Balmossie,BSI
+Effingham Junction,EFF
+Belvedere,BVD
+Wrexham Central,WXC
+Welwyn Garden City,WGC
+Arnside,ARN
+Stourbridge Junction,SBJ
+Norbury,NRB
+Troon,TRN
+Chafford Hundred Lakeside,CFH
+Freshford,FFD
+Whitland,WTL
+Dumbarton Central,DBC
+Lostock,LOT
+Penryn (Cornwall),PYN
+Faygate,FGT
+Staveley (Cumbria),SVL
+Kidderminster,KID
+Ffairfach,FFA
+Overton,OVR
+Stranraer,STR
+Spondon,SPO
+Salford Central,SFD
+Pegswood,PEG
+Bearley,BER
+Pluckley,PLC
+Cononley,CEY
+Dunfermline Queen Margaret,DFL
+Rannoch,RAN
+Alresford (Essex),ALR
+University (Birmingham),UNI
+Bedford,BDM
+Snodland,SDA
+Wallasey Grove Road,WLG
+Forest Hill,FOH
+Loch Awe,LHA
+Wressle,WRS
+Calstock,CSK
+Entwistle,ENT
+Langley Green,LGG
+Dore & Totley,DOR
+Sugar Loaf,SUG
+Crosskeys,CKY
+Newtongrange,NEG
+Duddeston,DUD
+Frant,FRT
+Pont-y-Pant,PYP
+Farningham Road,FNR
+Caerphilly,CPH
+Widdrington,WDD
+Canley,CNL
+Burgess Hill,BUG
+Metheringham,MGM
+Kilgetty,KGT
+West Allerton,WSA
+Maidenhead,MAI
+Chatham,CTM
+Streethouse,SHC
+West Byfleet,WBY
+Edenbridge Town,EBT
+Bramhall,BML
+Ore,ORE
+Derby Road (Ipswich),DBR
+Merryton,MEY
+Portchester,PTC
+Bescar Lane,BES
+Yarm,YRM
+Ashtead,AHD
+Ferryside,FYS
+Lea Green,LEG
+Poulton-le-Fylde,PFY
+Doleham,DLH
+Cookham,COO
+Thorpe-le-Soken,TLS
+Risca & Pontymister,RCA
+Polesworth,PSW
+Reading,RDG
+Chertsey,CHY
+Tenby,TEN
+Catford Bridge,CFB
+Eastbourne,EBN
+Dalston Junction,DLJ
+White Notley,WNY
+Whitchurch (Shropshire),WTC
+Sandbach,SDB
+Oulton Broad North,OUN
+Chessington South,CSS
+Peterborough,PBO
+Crianlarich,CNR
+West Runton,WRN
+Ty Croes,TYC
+Surbiton,SUR
+Corkerhill,CKH
+Attleborough,ATL
+Milton Keynes Central,MKC
+Lelant Saltings,LTS
+Barnham,BAA
+Borough Green & Wrotham,BRG
+Kents Bank,KBK
+Barlaston,BRT
+Blaydon,BLO
+Bruce Grove,BCV
+Walkden,WKD
+Kirkham & Wesham,KKM
+Aintree,AIN
+Overpool,OVE
+Merthyr Vale,MEV
+Fairfield,FRF
+Elephant & Castle (Underground),ZEL
+Morar,MRR
+Severn Tunnel Junction,STJ
+Earlswood (West Midlands),EWD
+Abbey Wood,ABW
+Upper Holloway,UHL
+Westerfield,WFI
+Larkhall,LRH
+Thurston,TRS
+Purley Oaks,PUO
+Merthyr Tydfil,MER
+Sudbury & Harrow Road,SUD
+Stone Crossing,SCG
+Llangennech,LLH
+Keyham,KEY
+Briton Ferry,BNF
+Southbourne,SOB
+Altrincham,ALT
+Llanwrda,LNR
+Stoneleigh,SNL
+Scarborough,SCA
+Mortimer,MOR
+Bridgwater,BWT
+Acocks Green,ACG
+Brondesbury,BSY
+Knighton,KNI
+Braystones (Cumbria),BYS
+Axminster,AXM
+Ammanford,AMF
+New Southgate,NSG
+Wymondham,WMD
+Liss,LIS
+Upwey,UPW
+Arrochar & Tarbet,ART
+New Cumnock,NCK
+Clunderwen,CUW
+Bridge of Orchy,BRO
+Stockport,SPT
+Corkickle,CKL
+Levenshulme,LVM
+Sudbury (Suffolk),SUY
+Dorking West,DKT
+Epsom Downs,EPD
+Kentish Town West,KTW
+Brampton (Suffolk),BRP
+Woburn Sands,WOB
+Brentford,BFD
+Carpenders Park,CPK
+Lealholm,LHM
+Wakefield Kirkgate,WKK
+Finchley Road & Frognal,FNY
+Cambridge North,CMB
+Spean Bridge,SBR
+Sawbridgeworth,SAW
+Lawrence Hill,LWH
+Ashford International (Eurostar),ASI
+Fearn,FRN
+Camelon,CMO
+Roydon,RYN
+Windsor & Eton Riverside,WNR
+Winchmore Hill,WIH
+Southport,SOP
+Seaham,SEA
+Mills Hill (Manchester),MIH
+Nunthorpe,NNT
+Pulborough,PUL
+Darwen,DWN
+Mauldeth Road,MAU
+Belmont,BLM
+Stockton,STK
+Adlington (Lancs),ADL
+Crowle,CWE
+Berry Brow,BBW
+Shoreditch High Street,SDC
+Quintrell Downs,QUI
+South Gyle,SGL
+Starcross,SCS
+Pollokshaws West,PWW
+Birmingham Snow Hill,BSW
+Tal-y-Cafn,TLC
+Knockholt,KCK
+Cromford,CMF
+Plockton,PLK
+Cosford,COS
+Williamwood,WLM
+Dovercourt,DVC
+Batley,BTL
+Wishaw,WSH
+Turkey Street,TUR
+Stevenston,STV
+Ockley,OLY
+Charing Cross (Glasgow),CHC
+Jordanhill,JOR
+Welwyn North,WLW
+Machynlleth,MCN
+Denton,DTN
+Newark North Gate,NNG
+Sarn,SRR
+Warrington Central,WAC
+Preston Park,PRP
+London Liverpool Street,LST
+Lapworth,LPW
+Dinas (Rhondda),DMG
+Brough,BUH
+Aviemore,AVM
+West Norwood,WNW
+Wakefield Westgate,WKF
+Sandhills,SDL
+Dunkeld & Birnam,DKD
+Buxton,BUX
+Atherstone,ATH
+Redruth,RED
+Accrington,ACR
+Dorking Deepdene,DPD
+Valley,VAL
+Oulton Broad South,OUS
+Barrow-in-Furness,BIF
+Pevensey Bay,PEB
+Rowlands Castle,RLN
+Oxshott,OXS
+Fulwell,FLW
+Bescot Stadium,BSC
+Carbis Bay,CBB
+Birkdale,BDL
+Ben Rhydding,BEY
+Althorpe,ALP
+Pontefract Monkhill,PFM
+Battersby,BTT
+Lamphey,LAM
+Somerleyton,SYT
+Motspur Park,MOT
+Trehafod,TRH
+Nethertown,NRT
+Aigburth,AIG
+Thorne North,TNN
+Dormans,DMS
+Kelvindale,KVD
+Saxilby,SXY
+Sydenham Hill,SYH
+Southend Airport,SIA
+Robroyston,RRN
+Causeland,CAU
+Cuffley,CUF
+Appleby,APP
+Bishopstone (Sussex),BIP
+Penkridge,PKG
+Bexley,BXY
+Colchester,COL
+Bentley (South Yorks),BYK
+Moorside,MSD
+Wigton,WGT
+Sevenoaks,SEV
+Furze Platt,FZP
+Whittlesea,WLE
+Bromborough,BOM
+Cramlington,CRM
+Mansfield Woodhouse,MSW
+Okehampton,OKE
+Cambridge,CBG
+Burnside (Strathclyde),BUI
+Baillieston,BIO
+Mouldsworth,MLD
+Wootton Wawen,WWW
+Roose,ROO
+Blackheath,BKH
+Cholsey,CHO
+Tain,TAI
+Llandudno Junction,LLJ
+Brixton,BRX
+Trefforest Estate,TRE
+Whifflet,WFF
+Kirkstall Forge,KLF
+Beaulieu Road,BEU
+Pontypridd,PPD
+Bures,BUE
+Nairn,NRN
+Battersea Park,BAK
+Templecombe,TMC
+Bellingham,BGM
+Barbican,ZBB
+Vauxhall,VXH
+Brunstane,BSU
+Fishersgate,FSG
+Lockerbie,LOC
+Llanelli,LLE
+Fleet,FLE
+Attadale,ATT
+Oban,OBN
+St Austell,SAU
+Narberth,NAR
+Kilwinning,KWN
+Porthmadog,PTM
+Llandudno,LLD
+Barassie,BSS
+Poynton,PYT
+East Worthing,EWR
+Kirkcaldy,KDY
+Waun-Gron Park,WNG
+Wellington (Shropshire),WLN
+Byfleet & New Haw,BFN
+Stirling,STG
+West Dulwich,WDU
+Spital,SPI
+Bulwell,BLW
+Amberley,AMY
+St Margarets (London),SMG
+Cuxton,CUX
+Ash,ASH
+Bat & Ball,BBL
+Abergele & Pensarn,AGL
+Dagenham Dock,DDK
+Beasdale,BSL
+Luxulyan,LUX
+Feniton,FNT
+Sandwell & Dudley,SAD
+Shelford (Cambs),SED
+Marple,MPL
+Alsager,ASG
+Bourne End,BNE
+Cam & Dursley,CDU
+Colwyn Bay,CWB
+Widnes,WID
+St Ives (Cornwall),SIV
+Pannal,PNL
+Cardiff Queen Street,CDQ
+Southwick,SWK
+Scotscalder,SCT
+Etchingham,ETC
+Lenham,LEN
+Acle,ACL
+Clarkston,CKS
+Alexandria,ALX
+Ferriby,FRY
+Wraysbury,WRY
+Corbridge,CRB
+Earlsfield,EAD
+Lydney,LYD
+Liverpool Lime Street,LIV
+Brockholes,BHS
+Rhymney,RHY
+Kew Gardens,KWG
+Cricklewood,CRI
+Ystrad Mynach,YSM
+Knucklas,KNU
+Camberley,CAM
+Bosham,BOH
+Elsenham (Essex),ESM
+Fort Matilda,FTM
+Manchester Victoria,MCV
+Woodgrange Park,WGR
+Taffs Well,TAF
+Mistley,MIS
+Trimley,TRM
+Maghull North,MNS
+Driffield,DRF
+Flimby,FLM
+Conwy,CNW
+Berkswell,BKW
+Queens Road (Peckham),QRP
+Topsham,TOP
+Coulsdon South,CDS
+Lochailort,LCL
+Polsloe Bridge,POL
+Penrhiwceiber,PER
+Mitcham Eastfields,MTC
+Eccles Road,ECS
+Urmston,URM
+Kempton Park Racecourse,KMP
+Worthing,WRH
+Erdington,ERD
+Forres,FOR
+Bingley,BIY
+Kirkby (Merseyside),KIR
+Drumry,DMY
+Broome,BME
+Woolwich Arsenal,WWA
+Livingston North,LSN
+Ruswarp,RUS
+Waterbeach,WBC
+Earlestown,ERL
+Criccieth,CCC
+Cheltenham Spa,CNM
+Bromley South,BMS
+Combe (Oxon),CME
+Needham Market,NMT
+Kiveton Park,KVP
+Aberdare,ABA
+Northallerton,NTR
+Reedham (Surrey),RHM
+Tonfanau,TNF
+Clitheroe,CLH
+Arundel,ARU
+Burley Park,BUY
+Stratford-upon-Avon Parkway,STY
+Llangammarch,LLM
+Taynuilt,TAY
+Ryde St Johns Road,RYR
+Beckenham Junction,BKJ
+Ware (Herts),WAR
+Maryhill,MYH
+Falmer,FMR
+Princes Risborough,PRR
+Cantley,CNY
+Clandon,CLA
+Shepperton,SHP
+South Bank,SBK
+Lockwood,LCK
+Addlestone,ASN
+Cark & Cartmel,CAK
+Cooksbridge,CBR
+New Cross,NWX
+St Helier (Surrey),SIH
+Cromer,CMR
+Dumfries,DMF
+Smethwick Rolfe Street,SMR
+Barry,BRY
+Bamber Bridge,BMB
+Mirfield,MIR
+Workington,WKG
+Paisley Gilmour Street,PYG
+Salhouse,SAH
+Widney Manor,WMR
+Willesden Junction,WIJ
+Newton St Cyres,NTC
+Runcorn,RUN
+Ashton-under-Lyne,AHN
+Patricroft,PAT
+Ynyswen,YNW
+Drayton Park,DYP
+Kings Norton,KNN
+Strawberry Hill,STW
+Morley,MLY
+Mountain Ash,MTA
+Oxenholme Lake District,OXN
+Bekesbourne,BKS
+Kilburn High Road,KBN
+Kings Lynn,KLN
+Sleights,SLH
+Moston,MSO
+Carshalton,CSH
+Appley Bridge,APB
+Atherton,ATN
+Whitehaven,WTH
+Earley,EAR
+Ponders End,PON
+Redland,RDA
+Auchinleck,AUK
+Walthamstow Queen's Road,WMW
+Brandon,BND
+Coseley,CSY
+Barnhill,BNL
+Bow Brickhill,BWB
+Mottingham,MTG
+Ashford (Surrey),AFS
+Peartree,PEA
+Newbury Racecourse,NRC
+Folkestone Central,FKC
+Rochdale,RCD
+Broxbourne,BXB
+Stowmarket,SMK
+Benfleet,BEF
+Caldicot,CDT
+Thames Ditton,THD
+Mill Hill Broadway,MIL
+St Annes-on-Sea,SAS
+Yorton,YRT
+Kennishead,KNS
+Bitterne,BTE
+Southampton Airport Parkway,SOA
+Falmouth Docks,FAL
+Forest Gate,FOG
+Dalry,DLY
+Bache,BAC
+Fairlie,FRL
+Eridge,ERI
+Parton,PRN
+Chassen Road,CSR
+Walsall,WSL
+Micklefield,MIK
+Dalmeny,DAM
+Eccleston Park,ECL
+Slateford,SLA
+Sheffield,SHF
+Caldercruix,CAC
+Apsley,APS
+Brading,BDN
+Elephant & Castle,EPH
+Conway Park,CNP
+Potters Bar,PBR
+Woldingham,WOH
+Rhyl,RHL
+Dalmarnock,DAK
+Sheringham,SHM
+Kingsknowe,KGE
+Uddingston,UDD
+Woodhouse,WDH
+Burnham-on-Crouch,BUU
+Wimbledon Chase,WBO
+Kilmaurs,KLM
+Whiston,WHN
+Yeovil Junction,YVJ
+Shotts,SHS
+Wallyford,WAF
+Leicester,LEI
+Selling,SEG
+Sanderstead,SNR
+Moreton-in-Marsh,MIM
+Acklington,ACK
+Waterloo (Merseyside),WLO
+Dorchester South,DCH
+North Dulwich,NDL
+Crossflatts,CFL
+Whitwell (Derbyshire),WWL
+New Pudsey,NPD
+New Holland,NHL
+Stourbridge Town,SBT
+Dingle Road,DGL
+Thatcham,THA
+White Hart Lane,WHL
+Shalford (Surrey),SFR
+Kings Nympton,KGN
+Malvern Link,MVL
+MetroCentre,MCE
+Farringdon,ZFD
+Cooden Beach,COB
+Alnmouth,ALM
+Banavie,BNV
+Shoreham (Kent),SEH
+Stratford-upon-Avon,SAV
+South Acton,SAT
+Wendover,WND
+Prees,PRS
+Baildon,BLD
+Chipstead,CHP
+Lidlington,LID
+Sidcup,SID
+Anniesland,ANL
+Feltham,FEL
+Clarbeston Road,CLR
+Barnes Bridge,BNI
+Bilbrook,BBK
+Tisbury,TIS
+Wylde Green,WYL
+Creswell,CWD
+Stonehaven,STN
+Worcestershire Parkway,WOP
+Cathays,CYS
+Woolston,WLS
+Shipley (Yorks),SHY
+Waltham Cross,WLC
+Ashley,ASY
+Nafferton,NFN
+Maesteg,MST
+Pontyclun,PYC
+Waddon,WDO
+Moreton (Merseyside),MRT
+Kings Park,KGP
+Margate,MAR
+Meols,MEO
+Llanishen,LLS
+Falconwood,FCN
+Wrenbury,WRE
+Shrewsbury,SHR
+Llanbradach,LNB
+Fenny Stratford,FEN
+Bridgeton,BDG
+Cressington,CSG
+Liverpool Central,LVC
+Drigg,DRI
+Aberdour,AUR
+Upper Tyndrum,UTY
+Sutton (Surrey),SUO
+Treherbert,TRB
+Kent House,KTH
+Aston,AST
+Willington,WIL
+Amersham,AMR
+Woking,WOK
+Nuneaton,NUN
+Kirkhill,KKH
+Barry Docks,BYD
+Eastbrook,EBK
+March,MCH
+Thorne South,TNS
+Market Rasen,MKR
+Walthamstow Central,WHC
+Prudhoe,PRU
+Ebbw Vale Parkway,EBV
+Reedham (Norfolk),REE
+New Malden,NEM
+Pencoed,PCD
+Kidsgrove,KDG
+Dinas Powys,DNS
+Landywood,LAW
+Dyffryn Ardudwy,DYF
+Shoreham-by-Sea,SSE
+Prestwick International Airport,PRA
+Cadoxton,CAD
+Possilpark & Parkhouse,PPK
+Queens Park (London),QPW
+Barry Links,BYL
+Littlehaven,LVN
+Bargoed,BGD
+Stonebridge Park,SBP
+Rolleston,ROL
+Kings Langley,KGL
+Durham,DHM
+Newmarket,NMK
+Cuddington,CUD
+Berwick (Sussex),BRK
+Bracknell,BCE
+Silecroft,SIC
+Montrose,MTS
+Cranbrook (Devon),CBK
+Moulsecoomb,MCB
+Aughton Park,AUG
+Wilnecote (Staffs),WNE
+Culham,CUM
+Twickenham,TWI
+East Farleigh,EFL
+Newport (South Wales),NWP
+Ashburys,ABY
+Penmere,PNM
+Lewes,LWS
+New Beckenham,NBC
+Crosshill,COI
+Swinton (Manchester),SNN
+Coventry Arena,CAA
+Stechford,SCF
+Liphook,LIP
+Roman Bridge,RMB
+Cambuslang,CBL
+Basildon,BSO
+Yeovil Pen Mill,YVP
+Cowdenbeath,COW
+Leeds,LDS
+Dudley Port,DDP
+Southend East,SOE
+Wildmill,WMI
+Felixstowe,FLX
+Baldock,BDK
+Chepstow,CPW
+Leuchars (for St. Andrews),LEU
+Caersws,CWS
+Theale,THE
+Dover Priory,DVP
+Virginia Water,VIR
+Sellafield,SEL
+Walmer,WAM
+Breich,BRC
+Redcar British Steel,RBS
+Leasowe,LSW
+Windermere,WDM
+Warnham,WNH
+Nelson,NEL
+Blackpool Pleasure Beach,BPB
+Drumfrochar,DFR
+Cardenden,CDD
+Pantyffynnon,PTF
+West Worthing,WWO
+Sunderland,SUN
+Moses Gate,MSS
+Tunbridge Wells,TBW
+Chadwell Heath,CTH
+Farnborough (Main),FNB
+Saltburn,SLB
+Achanalt,AAT
+Morpeth,MPT
+Sandhurst (Berks),SND
+New Brighton,NBN
+Scunthorpe,SCU
+Lostock Gralam,LTG
+Kew Bridge,KWB
+Weston-super-Mare,WSM
+Annan,ANN
+Disley,DSL
+Marsden (Yorks),MSN
+Llandeilo,LLL
+Corrour,CRR
+Carfin,CRF
+Llanaber,LLA
+Canterbury East,CBE
+Swinderby,SWD
+Mexborough,MEX
+Pembroke,PMB
+Exeter St David's,EXD
+East Malling,EML
+Corpach,CPA
+Sunningdale,SNG
+Narborough,NBR
+Spalding,SPA
+South Bermondsey,SBM
+Wavertree Technology Park,WAV
+Minster,MSR
+Derby,DBY
+Meols Cop,MEC
+Thornford,THO
+Bolton-Upon-Dearne,BTD
+Little Sutton,LTT
+Eastleigh,ESL
+South Milford,SOM
+Doncaster,DON
+Enfield Lock,ENL
+Sutton Common,SUC
+Wigan North Western,WGN
+St Neots,SNO
+Thornaby,TBY
+Leigh-on-Sea,LES
+Woodley,WLY
+Lowdham,LOW
+Tring,TRI
+Box Hill & Westhumble,BXW
+Patchway,PWY
+West Sutton,WSU
+Sudbury Hill Harrow,SDH
+Falkirk High,FKK
+Cwmbach,CMH
+Bishops Stortford,BIS
+Penarth,PEN
+Slaithwaite,SWT
+Alderley Edge,ALD
+Llanbister Road,LLT
+Ashurst (Kent),AHS
+Battlesbridge,BLB
+Crystal Palace,CYP
+Claygate,CLG
+Shifnal,SFN
+Clacton-on-Sea,CLT
+Port Glasgow,PTG
+Clapham High Street,CLP
+Crowborough,COH
+West Wickham,WWI
+Denham Golf Club,DGC
+Lymington Pier,LYP
+New Clee,NCE
+Blackridge,BKR
+Ellesmere Port,ELP
+Bearsted,BSD
+Martin Mill,MTM
+Leyton Midland Road,LEM
+Featherstone,FEA
+Rawcliffe,RWC
+Springfield,SPF
+Llanbedr,LBR
+Wrabness,WRB
+Shirehampton,SHH
+Birkenhead Park,BKP
+Farnham,FNH
+Trafford Park,TRA
+Bowes Park,BOP
+Arisaig,ARG
+Thetford,TTF
+Southampton Central,SOU
+Shepherds Well,SPH
+South Wigston,SWS
+London Blackfriars,BFR
+Stansted Airport,SSD
+St Germans,SGM
+Meopham,MEP
+Canada Water,ZCW
+Datchet,DAT
+Ancaster,ANC
+Shawlands,SHL
+Cambridge Heath,CBH
+Bugle,BGL
+Wainfleet,WFL
+Bridge of Allan,BEA
+Cardross,CDR
+Prittlewell,PRL
+Muirend,MUI
+Selly Oak,SLY
+Crowthorne,CRN
+Watford Junction,WFJ
+Tilehurst,TLH
+Netley,NTL
+Chingford,CHI
+Bere Ferrers,BFE
+Staplehurst,SPU
+Thornton Heath,TTH
+Ashfield,ASF
+Birmingham Moor Street,BMO
+Barnt Green,BTG
+Reading West,RDW
+Chester Road,CRD
+Bridgend,BGN
+Rose Grove,RSG
+Milliken Park,MIN
+Paisley Canal,PCN
+Keith,KEH
+Monifieth,MON
+Abererch,ABH
+Marske,MSK
+Rotherham Central,RMC
+Darsham,DSM
+Plumley,PLM
+Cattal,CTL
+Littleport,LTP
+Angmering,ANG
+Dent,DNT
+Newhaven Town,NVN
+Carrbridge,CAG
+Ruskington,RKT
+Winnersh,WNS
+Filton Abbey Wood,FIT
+St Budeaux Victoria Road,SBV
+Ardgay,ARD
+Blair Atholl,BLA
+New Milton,NWM
+Dyce,DYC
+Rotherhithe,ROE
+Stonehouse,SHU
+Westcombe Park,WCB
+St Helens Junction,SHJ
+Newhaven Harbour,NVH
+Brundall Gardens,BGA
+Elton & Orston,ELO
+Airbles,AIR
+Woodmansterne,WME
+Orpington,ORP
+Royston,RYS
+Cherry Tree,CYT
+Botley,BOE
+Rowley Regis,ROW
+Parson Street,PSN
+Braintree,BTR
+Trowbridge,TRO
+Scotstounhill,SCH
+Bucknell,BUK
+Llanrwst,LWR
+Mill Hill (Lancs),MLH
+Arbroath,ARB
+Rochester,RTR
+Wilmslow,WML
+Swansea,SWA
+Barrhill,BRL
+Bagshot,BAG
+Walsden,WDN
+Bargeddie,BGI
+Morchard Road,MRD
+London Marylebone,MYB
+Bootle (Cumbria),BOC
+St Helens Central,SNH
+Mottisfont & Dunbridge,DBG
+Settle,SET
+Chichester,CCH
+Chelsfield,CLD
+London St Pancras (Intl),SPX
+Forsinard,FRS
+Runcorn East,RUE
+Bolton,BON
+Dewsbury,DEW
+Eccles (Manchester),ECC
+Weston Milton,WNM
+Kirkby-in-Furness,KBF
+Stocksmoor,SSM
+Streatham (Greater London),STE
+Southend Central,SOC
+Matlock Bath,MTB
+South Kenton,SOK
+Clifton Down,CFN
+Lancing,LAC
+St Denys,SDN
+Syon Lane,SYL
+Shippea Hill,SPP
+Butlers Lane,BUL
+Bamford,BAM
+Coventry,COV
+Epsom (Surrey),EPS
+Worcester Foregate Street,WOF
+Mobberley,MOB
+Pyle,PYL
+Buckshaw Parkway,BSV
+Marden (Kent),MRN
+Dunlop,DNL
+Stone (Staffs),SNE
+Thorpe Bay,TPB
+Slough,SLO
+Five Ways,FWY
+Chester,CTR
+Cupar,CUP
+Llwyngwril,LLW
+London Kings Cross,KGX
+Stromeferry,STF
+Tweedbank,TWB
+Wythall,WYT
+Kirkconnel,KRK
+Llandovery,LLV
+Bottesford,BTF
+Birchgrove,BCG
+Adwick,AWK
+Bardon Mill,BLL
+Dorridge,DDG
+Seascale,SSC
+Dingwall,DIN
+Kirk Sandall,KKS
+Eggesford,EGG
+Tyseley,TYS
+Wemyss Bay,WMS
+Kyle of Lochalsh,KYL
+Mossley Hill,MSH
+Pwllheli,PWL
+Berwick-upon-Tweed,BWK
+Carshalton Beeches,CSB
+Pontefract Baghill,PFR
+London Charing Cross,CHX
+Rugeley Town,RGT
+Cleland,CEA
+South Woodham Ferrers,SOF
+Aldermaston,AMT
+Rugby,RUG
+Nunhead,NHD
+Oakengates,OKN
+Rauceby,RAU
+Northumberland Park,NUM
+Totton,TTN
+London Road (Guildford),LRD
+Ribblehead,RHD
+Deighton,DHN
+Kensal Rise,KNR
+Pembroke Dock,PMD
+Woodsmoor,WSR
+Sydenham (London),SYD
+Morecambe,MCM
+Dinting,DTG
+Roughton Road,RNR
+Frimley,FML
+Whittlesford Parkway,WLF
+Chappel & Wakes Colne,CWC
+Belle Vue,BLV
+Bramley (W Yorks),BLE
+Brockley,BCY
+Newton for Hyde,NWN
+Chestfield & Swalecliffe,CSW
+Stamford (Lincs),SMD
+Frizinghall,FZH
+Cleethorpes,CLE
+Middlewood,MDL
+Dalston (Cumbria),DLS
+Manchester Piccadilly,MAN
+Curriehill,CUH
+Worcester Shrub Hill,WOS
+Sleaford,SLR
+Davenport,DVN
+Kemsley,KML
+Stoke Newington,SKW
+Portsmouth Arms,PMA
+Kilpatrick,KPT
+Stewarton,STT
+Martins Heron,MAO
+Nottingham,NOT
+Fiskerton,FSK
+Wandsworth Road,WWR
+Edge Hill,EDG
+New Hythe,NHE
+Stratford (London),SRA
+Beverley,BEV
+New Mills Newtown,NMN
+Borth,BRH
+Rainham (Essex),RNM
+Walton-on-the-Naze,WON
+Newton-on-Ayr,NOA
+Chapelton (Devon),CPN
+Crowhurst,CWU
+Skipton,SKI
+Ravenglass for Eskdale,RAV
+Liskeard,LSK
+West Ham,WEH
+Longniddry,LND
+Priesthill & Darnley,PTL
+Shiplake,SHI
+Walton (Merseyside),WAO
+Ardrossan Harbour,ADS
+Brighouse,BGH
+Macclesfield,MAC
+The Lakes (Warks),TLK
+Winchelsea,WSE
+St Mary Cray,SMY
+Arram,ARR
+Styal,SYA
+Quakers Yard,QYD
+Adderley Park,ADD
+Arlesey,ARL
+Fairwater,FRW
+Branchton,BCN
+Thurso,THS
+Crossmyloof,CMY
+Ystrad Rhondda,YSR
+Seaforth & Litherland,SFL
+Ryder Brow,RRB
+Shepley,SPY
+Penmaenmawr,PMW
+Newton-le-Willows,NLW
+Crews Hill,CWH
+Norwich,NRW
+Brighton (East Sussex),BTN
+Alton,AON
+Albrighton,ALB
+Biggleswade,BIW
+Whitechapel,ZLW
+Poppleton,POP
+Pevensey & Westham,PEV
+Fareham,FRM
+Renton,RTN
+Chippenham,CPM
+Birkenhead North,BKN
+Roy Bridge,RYB
+Totnes,TOT
+Stanford-le-Hope,SFO
+Newton Abbot,NTA
+Llandybie,LLI
+St Johns (London),SAJ
+Rainhill,RNH
+Lingfield,LFD
+Melton (Suffolk),MES
+London Fields,LOF
+Eaglescliffe,EAG
+Camden Road,CMD
+Kennett,KNE
+Chilham,CIL
+Sholing,SHO
+Farnworth,FNW
+Uckfield,UCK
+Thatto Heath,THH
+Carstairs,CRS
+Sunnymeads,SNY
+Lostock Hall,LOH
+Carntyne,CAY
+Blantyre,BLT
+Romiley,RML
+Enfield Town,ENF
+Addiewell,ADW
+Slade Green,SGR
+Abercynon,ACY
+Colchester Town,CET
+Bare Lane,BAR
+Chorleywood,CLW
+Braintree Freeport,BTP
+Markinch,MNC
+Wivenhoe,WIV
+Nailsea & Backwell,NLS
+Blaenau Ffestiniog,BFF
+Syston,SYS
+West Kirby,WKI
+Acton Bridge (Cheshire),ACB
+Adlington (Cheshire),ADC
+North Camp,NCM
+Buckley,BCK
+Swineshead,SWE
+Brockenhurst,BCU
+Wigan Wallgate,WGW
+Stoke-on-Trent,SOT
+Wye,WYE
+Bridlington,BDT
+Truro,TRU
+Chelford (Cheshire),CEL
+Pokesdown,POK
+Christchurch,CHR
+Low Moor,LMR
+Larbert,LBT
+Clifton (Manchester),CLI
+Whitchurch (Cardiff),WHT
+Dunfermline Town,DFE
+Castle Bar Park,CBP
+Brimsdown,BMD
+Paignton,PGN
+Bleasby,BSB
+Bruton,BRU
+Newtonmore,NWR
+Manea,MNE
+Crofton Park,CFT
+Nutfield,NUF
+Broughty Ferry,BYF
+Aldrington,AGT
+Billingham (Cleveland),BIL
+Rogerstone,ROR
+Millom,MLM
+Broomfleet,BMF
+Riding Mill,RDM
+Drem,DRM
+Bowling,BWG
+Builth Road,BHR
+Upminster,UPM
+Bredbury,BDY
+Dumpton Park,DMP
+Kirkwood,KWD
+Blairhill,BAI
+Basingstoke,BSK
+Welshpool,WLP
+Swanwick,SNW
+Moorgate,MOG
+Dumbreck,DUM
+Egton,EGT
+Avonmouth,AVN
+Newbury,NBY
+Johnston (Pembs),JOH
+Shawfair,SFI
+Danzey,DZY
+Burnley Central,BNC
+Wennington,WNN
+Broadbottom,BDB
+Ascott-under-Wychwood,AUW
+Micheldever,MIC
+Bloxwich,BLX
+Edinburgh Gateway,EGY
+Kenley,KLY
+St Margarets (Herts),SMT
+Colne,CNE
+Ramsgreave & Wilpshire,RGW
+Kilmarnock,KMK
+Ebbsfleet International,EBD
+Collingham,CLM
+Westerton,WES
+Bedworth,BEH
+Roche,ROC
+Evesham,EVE
+Mosspark,MPK
+Falkirk Grahamston,FKG
+Barming,BMG
+Llandrindod,LLO
+Blackrod,BLK
+Shenstone,SEN
+Alexandra Palace,AAP
+North Queensferry,NQU
+Whatstandwell,WTS
+Letchworth Garden City,LET
+Wedgwood,WED
+Manchester Airport,MIA
+Buckenham (Norfolk),BUC
+Loughborough Junction,LGJ
+Castleford,CFD
+Stocksfield,SKS
+Anerley,ANZ
+Portlethen,PLN
+Camborne,CBN
+Wylam,WYM
+Betws-y-Coed,BYC
+Tonbridge,TON
+Saundersfoot,SDF
+North Wembley,NWB
+Salisbury,SAL
+Earlswood (Surrey),ELD
+Thirsk,THI
+Rufford,RUF
+Ledbury,LED
+Witley,WTY
+Deptford,DEP
+Laindon,LAI
+Liverpool South Parkway,LPY
+Alvechurch,ALV
+Leigh (Kent),LIH
+Warrington West,WAW
+St Michaels,STM
+Pollokshaws East,PWE
+Brookmans Park,BPK
+Polmont,PMT
+Aylesford,AYL
+Cardiff Central,CDF
+Brundall,BDA
+Sway,SWY
+Lincoln Central,LCN
+Stoke Mandeville,SKM
+Kenton,KNT
+Banstead,BAD
+Battle,BAT
+Yate,YAE
+Eltham,ELW
+Watford High Street,WFH
+Bidston,BID
+Easterhouse,EST
+Sea Mills,SML
+Keynsham,KYN
+Thornliebank,THB
+Digby & Sowton,DIG
+Chester-le-Street,CLS
+Ealing Broadway,EAL
+East Dulwich,EDW
+Didcot Parkway,DID
+Pentre-Bach,PTB
+Carlton,CTO
+Llandaf,LLN
+Nitshill,NIT
+Whitecraigs,WCR
+Snowdown,SWO
+Edinburgh Park,EDP
+Bricket Wood,BWO
+Locheilside,LCS
+Mytholmroyd,MYT
+London Waterloo East,WAE
+Oakleigh Park,OKL
+Bookham,BKA
+Frodsham,FRD
+Bury St Edmunds,BSE
+Exton,EXN
+Warwick Parkway,WRP
+Old Hill,OHL
+New Barnet,NBA
+Cottingham,CGM
+Cilmeri,CIM
+Whitton (London),WTN
+Sheerness-on-Sea,SSS
+Barrow Haven,BAV
+Langbank,LGB
+Penzance,PNZ
+Newington,NGT
+Stevenage,SVG
+Weybridge,WYB
+Longcross,LNG
+Conisbrough,CNS
+Cannock,CAO
+Radyr,RDR
+Llandecwyn,LLC
+Capenhurst,CPU
+Westgate-on-Sea,WGA
+London Bridge,LBG
+Llangadog,LLG
+Crewkerne,CKN
+Romford,RMF
+Three Bridges,TBD
+Langwith-Whaley Thorns,LAG
+Burntisland,BTS
+Penhelig,PHG
+Barking,BKG
+London St Pancras International,STP
+Cobham & Stoke d'Abernon,CSD
+Falls of Cruachan,FOC
+Rose Hill Marple,RSH
+Abergavenny,AGV
+Poole,POO
+Kettering,KET
+Cogan,CGN
+Torre,TRR
+Prestatyn,PRT
+Newstead,NSD
+Leytonstone High Road,LER
+Bexhill,BEX
+Langley (Berks),LNY
+Wood End,WDE
+Wester Hailes,WTA
+Ambergate,AMB
+Water Orton,WTO
+Farncombe,FNC
+Steeton & Silsden,SON
+Lakenheath,LAK
+Smallbrook Junction,SAB
+Newbridge,NBE
+Enfield Chase,ENC
+Shoeburyness,SRY
+Welham Green,WMG
+Monks Risborough,MRS
+Lisvane & Thornhill,LVT
+Caterham,CAT
+Bristol Temple Meads,BRI
+Bere Alston,BAS
+Llanhilleth,LTH
+Perranwell,PRW
+City Thameslink,CTK
+Barnehurst,BNH
+Dronfield,DRO
+Barrhead,BRR
+Okehampton,OKE
+Wanstead Park,WNP
+Nutbourne,NUT
+Winsford,WSF
+Aldershot,AHT
+Cradley Heath,CRA
+Bromsgrove,BMV
+Cheam,CHE
+Strines,SRN
+Drumgelloch,DRU
+Lostwithiel,LOS
+Sittingbourne,SIT
+Carmyle,CML
+Bootle Oriel Road,BOT
+Kirkby Stephen,KSW
+Acton Central,ACC
+Llanwrtyd,LNW
+Wembley Stadium,WCX
+Millbrook (Hants),MBK
+Bishopton (Strathclyde),BPT
+North Fambridge,NFA
+Tattenham Corner,TAT
+Freshfield,FRE
+Exeter St Thomas,EXT
+Starbeck,SBE
+Lichfield Trent Valley,LTV
+Tondu,TDU
+Silverdale,SVR
+Culrain,CUA
+Church Stretton,CTT
+Ely,ELY
+Leamington Spa,LMS
+Filey,FIL
+Windsor & Eton Central,WNC
+Teddington,TED
+Leighton Buzzard,LBZ
+Droitwich Spa,DTW
+Severn Beach,SVB
+Pye Corner,PYE
+Paisley St James,PYJ
+Bicester Village,BIT
+Chapeltown (South Yorks),CLN
+Musselburgh,MUB
+Bromley Cross (Lancs),BMC
+Kingston,KNG
+Brunswick,BRW
+Baglan,BAJ
+Duke Street,DST
+Bank Hall,BAH
+Bognor Regis,BOG
+Partick,PTK
+Sandal & Agbrigg,SNA
+Ludlow,LUD
+Dorking (Main),DKG
+Blackpool South,BPS
+Edale,EDL
+Collington,CLL
+Burscough Junction,BCJ
+Burscough Bridge,BCB
+Yeoford,YEO
+Summerston,SUM
+Carlisle,CAR
+Stafford,STA
+Carnoustie,CAN
+Pinhoe,PIN
+Birmingham New Street,BHM
+Rhosneigr,RHO
+Redcar East,RCE
+Kidbrooke,KDB
+East Midlands Parkway,EMD
+South Hampstead,SOH
+Clapham (North Yorkshire),CPY
+Carmarthen,CMN
+Blakedown,BKD
+Pewsey,PEW
+Barrow-Upon-Soar,BWS
+Elgin,ELG
+Todmorden,TOD
+Bristol Parkway,BPW
+Ebbw Vale Town,EBB
+Kildonan,KIL
+Montpelier,MTP
+Menston,MNN
+Attenborough,ATB
+Midgham,MDG
+St Keyne Wishing Well Halt,SKN
+Shanklin,SHN
+Whyteleafe,WHY
+Melton Mowbray,MMO
+Burton-on-Trent,BUT
+Edmonton Green,EDR
+Wallington,WLT
+Linlithgow,LIN
+Seven Sisters,SVS
+West Hampstead Thameslink,WHP
+Pontarddulais,PTD
+Moreton (Dorset),MTN
+St Leonards Warrior Square,SLQ
+Elmstead Woods,ESD
+Burneside (Cumbria),BUD
+West Kilbride,WKB
+Stow,SOI
+Eden Park,EDN
+Winchester,WIN
+Pollokshields East,PLE
+Ockendon,OCK
+Shirley,SRL
+Darnall,DAN
+Claverdon,CLV
+Bletchley,BLY
+Lazonby & Kirkoswald,LZB
+Uttoxeter,UTT
+Long Eaton,LGE
+Bedford St Johns,BSJ
+Wick,WCK
+Moss Side,MOS
+Smithy Bridge,SMB
+Small Heath,SMA
+Maghull,MAG
+Oldfield Park,OLF
+Flowery Field,FLF
+Craigendoran,CGD
+New Cross Gate,NXG
+Taplow,TAP
+Purley,PUR
+Blake Street,BKT
+Tooting,TOO
+East Tilbury,ETL
+Brora,BRA
+Armadale (West Lothian),ARM
+Seer Green & Jordans,SRG
+Ascot (Berks),ACT
+Kirkby-in-Ashfield,KKB
+Mallaig,MLG
+Woodlesford,WDS
+Parkstone (Dorset),PKS
+St Albans Abbey,SAA
+Pilning,PIL
+Bradford Forster Square,BDQ
+Caergwrle,CGW
+Saltmarshe,SAM
+Ash Vale,AHV
+Croy,CRO
+Pengam,PGM
+Emsworth,EMS
+Birchington-on-sea,BCH
+St Andrews Road,SAR
+Merstham,MHM
+Devonport (Devon),DPT
+Minffordd,MFF
+Orrell Park,OPK
+Saxmundham,SAX
+Bearsden,BRN
+Barton-on-Humber,BAU
+New Eltham,NEH
+Clapton,CPT
+Reddish South,RDS
+Fort William,FTW
+Downham Market,DOW
+Kingswood,KND
+Cefn-y-Bedd,CYB
+Fitzwilliam,FZW
+Cwmbran,CWM
+Chirk,CRK
+Stanlow & Thornton,SNT
+Sherborne,SHE
+Ridgmont,RID
+Kensington Olympia,KPA
+Longfield,LGF
+Tir-Phil,TIR
+Leyland,LEY
+Tulloch,TUL
+Sole Street,SOR
+Barry Island,BYI
+Middlesbrough,MBR
+The Hawthorns,THW
+Queens Park (Glasgow),QPK
+Ramsgate,RAM
+Shireoaks,SRO
+Crookston,CKT
+Ravensthorpe,RVN
+Prestbury,PRB
+Watlington,WTG
+Newport (Essex),NWE
+Maryland,MYL
+Brookwood,BKO
+Robertsbridge,RBR
+Swale,SWL
+Mossley (Manchester),MSL
+Exmouth,EXM
+Seamer,SEM
+Upholland,UPL
+Llangynllo,LGO
+Bogston,BGS
+Wimbledon,WIM
+Weeley,WEE
+Aberdeen,ABD
+Coleshill Parkway,CEH
+Prestwick Town,PTW
+Whyteleafe South,WHS
+Longbeck,LGK
+Leagrave,LEA
+Shadwell,SDE
+Farnborough North,FNN
+Looe,LOO
+Saunderton,SDR
+Berney Arms,BYA
+Airdrie,ADR
+Dublin Port - Stena,DPS
+Ulverston,ULV
+Craven Arms,CRV
+Loughborough,LBO
+Coryton,COY
+Kinghorn,KGH
+St James Street (Walthamstow),SJS
+Balloch,BHC
+Bayford,BAY
+Ewell West,EWW
+Squires Gate,SQU
+Ardlui,AUI
+Whitley Bridge,WBD
+Wareham (Dorset),WRM
+Newtown (Powys),NWT
+Bedhampton,BDH
+Northolt Park,NLT
+Rectory Road,REC
+Raynes Park,RAY
+St Columb Road,SCR
+Broadstairs,BSR
+Salford Crescent,SLD
+Crawley,CRW
+Morfa Mawddach,MFA
+Limehouse,LHS
+Fazakerley,FAZ
+Bellgrove,BLG
+Kenilworth,KNW
+West Ruislip,WRU
+Aylesham,AYH
+Bushey,BSH
+Wadhurst,WAD
+Patterton,PTT
+Luton Airport Parkway,LTN
+Bordesley,BBS
+Umberleigh,UMB
+Long Buckby,LBK
+Wool,WOO
+Edinburgh,EDB
+Blackwater,BAW
+Swinton (South Yorks),SWN
+London Road (Brighton),LRB
+Maryport,MRY
+Wapping,WPE
+Ladybank,LDY
+New Lane,NLN
+Welling,WLI
+Saltash,STS
+Riddlesdown,RDD
+Chalfont & Latimer,CFO
+Fairbourne,FRB
+Pembrey & Burry Port,PBY
+Chetnole,CNO
+Tulse Hill,TUH
+Ladywell,LAD
+Snaith,SNI
+Stallingborough,SLL
+Kempston Hardwick,KMH
+Energlyn & Churchill Park,ECP
+Sileby,SIL
+Flint,FLN
+Dalton (Cumbria),DLT
+Bath Spa,BTH
+Pontefract Tanshelf,POT
+Oxford,OXF
+Blackburn,BBN
+Maiden Newton,MDN
+Broad Green,BGE
+Kirton Lindsey,KTL
+Bentley (Hants),BTY
+Corby,COR
+Burnham (Bucks),BNM
+Southall,STL
+Swanscombe,SWM
+Kings Sutton,KGS
+Chinley,CLY
+Armathwaite,AWT
+Bryn,BYN
+Talsarnau,TAL
+Ardrossan South Beach,ASB
+Askam,ASK
+Weeton,WET
+Duncraig,DCG
+Billericay,BIC
+Knebworth,KBW
+Bentham,BEN
+Stonegate,SOG
+Exhibition Centre (Glasgow),EXG
+Rhoose Cardiff International Airport,RIA
+Bodmin Parkway,BOD
+Apperley Bridge,APY
+Neston,NES
+Fishguard Harbour,FGH
+Manors,MAS
+Seven Kings,SVK
+Portsmouth Harbour,PMH
+Wickham Market,WCM
+London Paddington,PAD
+Stamford Hill,SMH
+Dolau,DOL
+Prestonpans,PST
+Bloxwich North,BWN
+West Hampstead,WHD
+Eastrington,EGN
+Lake,LKE
+South Ruislip,SRU
+Plymouth,PLY
+Belper,BLP
+Port Talbot Parkway,PTA
+Deganwy,DGY
+Kendal,KEN
+Euxton Balshaw Lane,EBA
+St Albans City,SAC
+Egham,EGH
+Palmers Green,PAL
+Kingham,KGM
+Redditch,RDC
+Portslade,PLD
+Foxfield,FOX
+Tyndrum Lower,TYL
+Crouch Hill,CRH
+Chandlers Ford,CFR
+Sunbury,SUU
+Lochwinnoch,LHW
+Woodhall,WDL
+Tywyn,TYW
+Twyford,TWY
+Rye House,RYH
+Purfleet,PFL
+Torquay,TQY
+Witton (West Midlands),WTT
+Birkenhead Hamilton Square,BKQ
+Par,PAR
+Aylesbury,AYS
+Daisy Hill,DSY
+Edenbridge,EBR
+Whaley Bridge,WBR
+Taunton,TAU
+Maze Hill,MZH
+Menheniot,MEN
+Silver Street,SLV
+Stepps,SPS
+Spooner Row,SPN
+London Euston,EUS
+Frinton-on-Sea,FRI
+Cosham,CSA
+Worstead,WRT
+Church & Oswaldtwistle,CTW
+Sturry,STU
+Bedminster,BMT
+Bishopbriggs,BBG
+Castleton (Manchester),CAS
+Shettleston,SLS
+Teynham,TEY
+Johnstone (Strathclyde),JHN
+Tiverton Parkway,TVP
+Outwood,OUT
+Burley-in-Wharfedale,BUW
+Mount Vernon,MTV
+Oxted,OXT
+Wolverhampton,WVH
+Duffield,DFI
+Branksome,BSM
+Connel Ferry,CON
+Tackley,TAC
+Laurencekirk,LAU
+Three Oaks,TOK
+Denmark Hill,DMK
+Duirinish,DRN
+Aspatria,ASP
+Beauly,BEL
+Little Kimble,LTK
+Burnage,BNA
+Upton (Merseyside),UPT
+Penshurst,PHR
+Fishguard & Goodwick,FGW
+Eskbank,EKB
+Maesteg (Ewenny Road),MEW
+Ainsdale,ANS
+Manchester Oxford Road,MCO
+Selby,SBY
+Dunrobin Castle,DNO
+Burton Joyce,BUJ
+Selhurst,SRS
+Southease,SEE
+Llantwit Major,LWM
+Whitstable,WHI
+Faversham,FAV
+Bellshill,BLH
+Dublin Ferryport,DFP
+Rainham (Kent),RAI
+Shotton,SHT
+Wolverton,WOL
+Marston Green,MGN
+Llwynypia,LLY
+Sutton Parkway,SPK
+Teignmouth,TGM
+Deansgate,DGT
+Lye (West Midlands),LYE
+Chelmsford,CHM
+Ashurst New Forest,ANF
+Brithdir,BHD
+Barnes,BNS
+Redbridge,RDB
+East Kilbride,EKL
+Bynea,BYE
+Sutton Coldfield,SUT
+Matlock,MAT
+Ton Pentre,TPN
+Cardiff Bay,CDB
+Copplestone,COP
+Stansted Mountfitchet,SST
+Dalston Kingsland,DLK
+Meadowhall,MHS
+Trefforest,TRF
+Bexleyheath,BXH
+Ruabon,RUA
+Rutherglen,RUT
+North Road (Darlington),NRD
+Burnley Manchester Road,BYM
+Malton,MLT
+Devonport Dockyard,DOC
+Alexandra Parade,AXP
+Billingshurst,BIG
+South Elmsall,SES
+Kintbury,KIT
+Neilston,NEI
+Penally,PNA
+Danby,DNY
+Maxwell Park,MAX
+Lower Sydenham,LSY
+Dalwhinnie,DLW
+Retford,RET
+Christs Hospital,CHH
+Lairg,LRG
+Milford (Surrey),MLF
+Bournville,BRV
+West Croydon,WCY
+Blythe Bridge,BYB
+Redhill,RDH
+Westcliff,WCF
+Orrell,ORR
+Fauldhouse,FLD
+Tame Bridge Parkway,TAB
+Kiveton Bridge,KIV
+Drumchapel,DMC
+Saltcoats,SLT
+Cressing (Essex),CES
+Birchwood,BWD
+Paddock Wood,PDW
+Thurgarton,THU
+Ewell East,EWE
+Betchworth,BTO
+Denby Dale,DBD
+Dovey Junction,DVY
+Anderston,AND
+Southminster,SMN
+Yalding,YAL
+Spring Road,SRI
+Mitcham Junction,MIJ
+Tygwyn,TYG
+Kearsley (Manchester),KSL
+Dodworth,DOD
+Warblington,WBL
+Kentish Town,KTN
+Ford,FOD
+Dumbarton East,DBE
+Cardonald,CDO
+Ulleskelf,ULL
+Wood Street,WST
+Lytham,LTM
+Whalley (Lancs),WHE
+Normanton,NOR
+Cathcart,CCT
+Bishop Auckland,BIA
+Kelvedon,KEL
+York,YRK
+Pensarn (Gwynedd),PES
+Esher,ESH
+Newcourt,NCO
+Bempton,BEM
+Croston,CSO
+Liverpool James Street,LVJ
+Thorntonhall,THT
+Upper Halliford,UPH
+Streatham Common,SRC
+Berrylands,BRS
+Cowden (Kent),CWN
+Chislehurst,CIT
+Sandy,SDY
+Eynsford,EYN
+Audley End,AUD
+Pitlochry,PIT
+Wickford,WIC
+Busby,BUS
+South Greenford,SGN
+Ty Glas,TGS
+Barnetby,BTB
+North Sheen,NSH
+Rhiwbina,RHI
+Eastham Rake,ERA
+Rugeley Trent Valley,RGL
+Kensal Green,KNL
+Langside,LGS
+Staines,SNS
+Perth,PTH
+Kemble,KEM
+Shenfield,SNF
+Malden Manor,MAL
+Dalmuir,DMR
+Sandling,SDG
+Yetminster,YET
+Bicester North,BCS
+Coombe Junction Halt,COE
+Otford,OTF
+Swaythling,SWG
+Stratford International,SFA
+Kirby Cross,KBX
+Parbold,PBL
+Portsmouth & Southsea,PMS
+Llansamlet,LAS
+Watton-at-Stone,WAS
+Ashchurch for Tewkesbury,ASC
+Pontypool & New Inn,PPL
+Berkhamsted,BKM
+Cottingley,COT
+London Waterloo,WAT
+Oakham,OKM
+Chessington North,CSN
+Penrith (North Lakes),PNR
+South Merton,SMO
+Wargrave,WGV
+Dunblane,DBL
+Lichfield City,LIC
+Pitsea,PSE
+Thorpe Culvert,TPC
+Boston,BSN
+Keighley,KEI
+Bursledon,BUO
+Dunton Green,DNG
+East Didsbury,EDY
+Richmond (London),RMD
+Brigg,BGG
+Dundee,DEE
+Luton,LUT
+Newton Aycliffe,NAY
+Westbury (Wilts),WSB
+Cheshunt,CHN
+Worle,WOR
+Strathcarron,STC
+Salfords (Surrey),SAF
+Chilworth,CHL
+Cross Gates,CRG
+Rosyth,ROS
+Newcastle,NCL
+Elsecar,ELR
+Upper Warlingham,UWL
+Radlett,RDT
+Erith,ERH
+Bethnal Green,BET
+Mortlake,MTL
+Beccles,BCC
+South Croydon,SCY
+Blackhorse Road,BHO
+Carnforth,CNF
+Southend Victoria,SOV
+Lewisham,LEW
+Brierfield,BRF
+Caledonian Rd & Barnsbury,CIR
+Worcester Park,WCP
+Salwick,SLW
+Mansfield,MFT
+Cheadle Hulme,CHU
+Emerson Park,EMP
+Elmswell,ESW
+Wivelsfield,WVF
+Brampton (Cumbria),BMP
+Dartford,DFD
+Tottenham Hale,TOM
+Drayton Green,DRG
+Cheddington,CED
+Largs,LAR
+Knutsford,KNF
+Knottingley,KNO
+Charlton,CTN
+Penychain,PNC
+Allens West,ALW
+Dalmally,DAL
+Elstree & Borehamwood,ELS
+Buxted,BXD
+Fernhill,FER
+Old Street,OLD
+Achnashellach,ACH
+Langwathby,LGW
+Danescourt,DCT
+Navigation Road,NVR
+Charlbury,CBY
+Dolwyddelan,DWD
+Bedwyn,BDW
+Newton (Lanark),NTN
+Ashwell & Morden,AWM
+Deal,DEA
+Wetheral,WRL
+East Croydon,ECR
+Southbury,SBU
+Lowestoft,LWT
+Foxton,FXN
+Balcombe,BAB
+Maybole,MAY
+Loch Eil Outward Bound,LHE
+Rainford,RNF
+Alness,ASS
+Penrhyndeudraeth,PRH
+Warrington Bank Quay,WBQ
+Sampford Courtenay,SMC
+West Calder,WCL
+Yardley Wood,YRD
+Penge West,PNW
+Rye (Sussex),RYE
+Cartsdyke,CDY
+Woolwich Dockyard,WWD
+Tolworth,TOL
+Aberystwyth,AYW
+Dolgarrog,DLG
+Chartham,CRT
+Kidwelly,KWL
+Park Street,PKT
+Beltring,BEG
+Flixton,FLI
+Northfield,NFD
+North Walsham,NWA
+Oxford Parkway,OXP
+Ayr,AYR
+Tipton,TIP
+St Bees,SBS
+Knaresborough,KNA
+Pen-y-Bont,PNY
+Cynghordy,CYN
+Corfe Castle,CFC
+Swindon (Wilts),SWI
+Tadworth,TAD
+London Victoria,VIC
+Aberdovey,AVY
+Prescot,PSC
+Queenstown Road (Battersea),QRB
+Commondale,COM
+Tamworth,TAM
+Blackpool North,BPN
+Wandsworth Town,WNT
+Manningtree,MNG
+Shieldmuir,SDM
+Wandsworth Common,WSW
+Redcar Central,RCC
+Aslockton,ALK
+Newcraighall,NEW
+Catford,CTF
+London Fenchurch Street,FST
+Birmingham International,BHI
